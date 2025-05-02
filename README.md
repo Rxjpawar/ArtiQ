@@ -36,7 +36,7 @@ Clone the repo:
 
 ```bash
 git clone https://github.com/Rxjpawar/AriQ.git
-cd ShopApp
+cd AriQ
 flutter pub get
 flutter run
 
